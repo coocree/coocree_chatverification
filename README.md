@@ -1,4 +1,4 @@
-# Pacote de componentes kukativa
+# Pacote de componentes
 
 Este pacote de componentes é especialmente projetado para melhorar a experiência de aprendizagem de 
 inglês no aplicativo Kukativa. Ele inclui uma variedade de recursos e ferramentas que ajudarão os 
